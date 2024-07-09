@@ -14,7 +14,7 @@
    14  git status
    15  git status
    16  git add
-   17  git commit -a
+   17  git commit -m "text_ignire"
    18  git status
    19  git add git commit -a
    20  git commit -a
@@ -38,3 +38,29 @@
    38  git checkout main
    39  git merge develop main
    40  history>command_list.csv
+   41  git add -A
+   42  git commit -a
+   43  git push
+   44  git push
+   45  cd ~/Desktop/2
+   46  git clone [200~
+   47  git clone https://github.com/Yurii-qa-sudo/HW_11.git
+   48  cd HW_11
+   49  rm -rf .git
+   50  git status
+   51  git push
+   52  git log
+   53  nano develop_test.txt 
+   54  git status
+   55  git add develop_test.txt
+   56  git commit -m "Text DEV"
+   57  rm main_test.txt 
+   58  git status
+   59  git rm main_test.txt 
+   60  git status
+   61  touch main_test.txt
+   62  git add main_test.txt 
+   63  git commit -m "add main"
+   64  git rm exit
+   65  git log
+   66  history>command_list.csv
